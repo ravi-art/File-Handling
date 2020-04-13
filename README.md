@@ -1,2 +1,2 @@
 # File-Handling
-This Repository is all about file handing, here we just one page from where we can manage our files like creating, deleting,uploading, editing , Appending and searching text in given file. I have made this by the help of PHP.
+This Repository is all about file handing, here we have just one page from where we can manage our files like creating, deleting,uploading, editing , Appending and searching text in given file. I have made this by the help of PHP. For the simulation of this repository we have to use local web server like Xampp. Here i have also used the link of bootstrap which will give a cool look to this repository when we have enternate connection. I have provided a earlier created file named OurIndia.
